@@ -149,9 +149,21 @@ select {
   }
 }
 
-@media (width <= 1280px) {
+@media (width <= 1288px) {
   .random-meals {
     padding-left: 22%;
+  }
+}
+
+@media (width <= 1168px) {
+  .random-meals {
+    padding-left: 24%;
+  }
+}
+
+@media (width <= 1142px) {
+  .random-meals {
+    padding-left: 25%;
   }
 }
 
